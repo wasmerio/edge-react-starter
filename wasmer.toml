@@ -1,0 +1,10 @@
+[package]
+name = "wasmer/edge-react-starter"
+version = "0.3.0"
+description = "Wasmer's edge-react-starter website"
+
+[dependencies]
+"sharrattj/static-web-server" = "1"
+
+[fs]
+public = "dist"

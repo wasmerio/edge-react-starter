@@ -1,0 +1,5 @@
+---
+kind: wasmer.io/App.v0
+name: edge-react-starter
+app_id: da_8RjPIgtQUOqK
+package: wasmer/edge-react-starter@0.3.0
